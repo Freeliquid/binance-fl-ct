@@ -1,0 +1,15 @@
+[submodule "lib/dss"]
+	path = lib/dss
+	url = https://github.com/makerdao/dss
+[submodule "lib/ds-test"]
+	path = lib/ds-test
+	url = https://github.com/dapphub/ds-test
+[submodule "lib/ds-note"]
+	path = lib/ds-note
+	url = https://github.com/dapphub/ds-note
+[submodule "lib/ds-token"]
+	path = lib/ds-token
+	url = https://github.com/dapphub/ds-token
+[submodule "lib/ae74f6d093ff8e121b706874f97b69b39f1fa5d9"]
+	path = lib/ae74f6d093ff8e121b706874f97b69b39f1fa5d9
+	url = https://github.com/dapphub/ds-token
